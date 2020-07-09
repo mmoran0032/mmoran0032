@@ -1,16 +1,14 @@
-### Hi there 👋
+### ℹ︎ About
 
-<!--
-**mmoran0032/mmoran0032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently a data scientist and technical lead @WhiteOps, where I identify and stop fraudulent activity on the internet. My background is in physics (experimental nuclear astrophysics, if you're intrigued).
 
-Here are some ideas to get you started:
+- Pronoun: he
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⌨️ Programming
+
+I mainly work in Python, which you could tell from this profile anyway, but am interested in a few subfields:
+
+- information retrieval/search
+- anomaly detection
+
+Plus, some old projects on analyzing curling 🥌 results that I need to restart.
